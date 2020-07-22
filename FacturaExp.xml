@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+	<factura>
+		<registro>
+			<CodigoFactura>1</CodigoFactura>
+			<RucEmpresa>123456789</RucEmpresa>
+			<Cedula>123456789</Cedula>
+			<Nombre>Diana</Nombre>
+			<Apellido>Narvaez</Apellido>
+			<Fecha>2020-07-22</Fecha>
+			<Telefono>123456789</Telefono>
+			<Direccion>Alangasi </Direccion>
+			<Cantidad>1</Cantidad>
+			<Detalle>peluche</Detalle>
+			<FormaPago>0</FormaPago>
+			<Total>5</Total>
+		</registro>
+	</factura>
