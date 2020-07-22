@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 
 
-<root>
-    
-</root>
+<factura>
+    <codigofactura></codigofactura>
+    <rucempresa></rucempresa>
+    <cedula></cedula>
+    <nombre></nombre>
+    <apellido></apellido>
+    <fecha>
+        <year></year>
+        <mes></mes>
+        <dia></dia>
+    </fecha>
+    <telefono></telefono>
+    <direccion></direccion>
+    <cantidad></cantidad>
+    <detalle></detalle>
+    <formapago></formapago>
+    <total></total>
+</factura>
